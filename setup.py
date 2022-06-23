@@ -141,7 +141,7 @@ with open('README.md', 'r') as f:
     long_description = f.read()
 
 setup(
-    name = 'pylibjpeg-libjpeg',
+    name = 'pymedphys-pylibjpeg-libjpeg',
     description = (
         "A Python wrapper for libjpeg, with a focus on use as a plugin for "
         "for pylibjpeg"
